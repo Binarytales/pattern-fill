@@ -1,6 +1,6 @@
 {
   "name": "pattern-fill",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "NPM version of Highcharts pattern fill. Highcharts pattern fill plugin for Highcharts 4. For Highcharts 3.x, the pattern fill version 1.0.x was used.",
   "main": "pattern-fill-v2.js",
   "scripts": {
@@ -15,13 +15,15 @@
     "ui"
   ],
   "author": {
-      "name": "Torstein Hønsi",
-      "url": "https://github.com/highslide-software"
+    "name": "Torstein Hønsi",
+    "url": "https://github.com/highslide-software"
   },
-  "contributors": [{
+  "contributors": [
+    {
       "name": "Jon Linklater-Johnson",
       "email": "jonl@brandwatch.com"
-  }],
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/BrandwatchLtd/pattern-fill/issues"
